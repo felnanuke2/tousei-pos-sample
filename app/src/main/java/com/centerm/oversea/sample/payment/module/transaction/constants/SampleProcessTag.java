@@ -1,0 +1,28 @@
+package com.centerm.oversea.sample.payment.module.transaction.constants;
+
+/**
+ * @author qzhhh on 6/25/21 10:10
+ */
+public interface SampleProcessTag {
+    String KEY_TRANS_CODE = "KEY_TRANS_CODE";
+    String KEY_AMOUNT = "KEY_AMOUNT";
+    String KEY_CHECK_CARD_TYPE = "KEY_CHECK_CARD_TYPE";
+    String KEY_RESULT_FLAG = "KEY_RESULT_FLAG";
+    String KEY_ERROR_CODE = "KEY_ERROR_CODE";
+    String KEY_ERROR_MESSAGE = "KEY_ERROR_MESSAGE";
+    String KEY_TRACK2_DATA = "KEY_TRACK2_DATA";
+    String KEY_CARD_NUMBER = "KEY_CARD_NUMBER";
+    String KEY_FIELD55_EMV_DATA = "KEY_FIELD55_EMV_DATA";
+    String KEY_VOUCHER = "KEY_VOUCHER";
+    String KEY_EXPIRE_DATE = "KEY_EXPIRE_DATE";
+    String KEY_PIN_BLOCK = "KEY_PIN_BLOCK";
+    String KEY_REQUEST_ONLINE_PIN = "KEY_REQUEST_ONLINE_PIN";
+    String KEY_SIGN_BITMAP = "KEY_SIGN_BITMAP";
+    String KEY_ORI_VOUCHER = "KEY_ORI_VOUCHER";
+    String KEY_ORI_AMOUNT = "KEY_ORI_AMOUNT";
+    String KEY_ORI_DATE = "KEY_ORI_DATE";
+    String KEY_ORI_CARD_NUMBER = "KEY_ORI_CARD_NUMBER";
+    String KEY_ORI_REFERENCE_NUMBER = "KEY_ORI_REFERENCE_NUMBER";
+    String KEY_SCAN_RESULT = "KEY_SCAN_RESULT";
+
+}

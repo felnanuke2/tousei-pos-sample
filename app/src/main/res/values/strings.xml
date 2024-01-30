@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PosDemo</string>
+    <string name="tip_input_amount">Please enter the amount</string>
+</resources>

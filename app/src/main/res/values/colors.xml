@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#707fff</color>
+    <color name="mainBlue">#707fff</color>
+    <color name="transColor">#2F000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <drawable name="black">#000000</drawable>
+    <drawable name="other">#fff00f</drawable>
+    <drawable name="blue">#0000FF</drawable>
+    <drawable name="blue_lit">#6699CC</drawable>
+    <color name="transparent">#00000000</color>
+    <color name="pad_divider">#e6e6e6</color>
+    <color name="common_divider">#cccccc</color>
+    <color name="font_blue">#3b75f2</color>
+    <color name="failed_color">#D81B60</color>
+</resources>
